@@ -1,2 +1,8 @@
 # hello-world
-just for practise
+
+Hello,
+
+my name is javed iqbal computer programmer asp.net / laravel php developer.
+
+regards:
+Javed iqbal
